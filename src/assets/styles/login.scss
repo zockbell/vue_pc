@@ -1,0 +1,22 @@
+.loginwrap {
+    padding: 15px;
+    background: #fff;
+
+    .logo {
+        padding: 0 10px;
+        text-align: center;
+        margin: 0 auto 15px;
+
+        img {
+            top: 5px;
+            width: 100px;
+            position: relative;
+        }
+    }
+    .visitor {
+        top: 10px;
+        color: #666;
+        position: relative;
+        font-size: .2rem;
+    }
+}

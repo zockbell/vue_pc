@@ -1,0 +1,41 @@
+.readWrapper {
+    // background: $bg;
+    background: #fff;
+
+    .adver-img {
+        img {
+            width: 100%;
+            height: 300px;
+        }
+    }
+
+    .content {
+        padding: 0 15px;
+
+        .audio {
+            background:#eee; 
+            padding: 20px;
+        }
+        
+        .ivu-card {
+            margin: 10px 0;
+            text-align: left;
+            i {
+                float: right;
+                font-size: 18px;
+            }
+        }
+
+        .abstract {
+            font-size: 14px;
+            color: #666;
+            line-height: 2;
+        }
+
+        .icon-bofang {
+            font-size: 40px;
+            color: #20D378;
+            cursor: pointer;
+        }
+    }
+}
