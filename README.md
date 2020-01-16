@@ -1,6 +1,6 @@
 # vue_pc
 
-> 此项目是对pep_vue移动端的补充```https://github.com/zockbell/pep_vue```，此架构是用iview生成的PC端的基础应用。
+> 此项目是对[pep_vue](https://github.com/zockbell/pep_vue)移动端的补充，此架构是用iview生成的PC端的基础应用结构。
 
 ## 目录结构
 ```
