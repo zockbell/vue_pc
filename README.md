@@ -139,6 +139,11 @@ vue_pc
             example.spec.ts
 ```
 
+## 案例demo地址：
+```
+http://62.234.25.173/pep_pc/
+```
+
 ## Project setup
 ```
 yarn install
