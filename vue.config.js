@@ -1,5 +1,6 @@
 module.exports = {
     publicPath:'/pep_pc/',
+    outputDir: "pep_pc",   //构建时的输出目录
     // lintOnSave: false,          // 关闭eslint
     devServer: {
         host: '0.0.0.0',        // 设置主机地址
